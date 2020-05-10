@@ -1,0 +1,119 @@
+
+# Created by https://www.gitignore.io/api/macos,webstorm
+# Edit at https://www.gitignore.io/\?templates\=macos,webstorm
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two 
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+### WebStorm ###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Generated files
+.idea/**/contentModel.xml
+
+# Sensitive or high-churn files
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.x# Edit at https://www.gitignore.io/\?templates\=macos,webea
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride/**# General
+.D.i.DS_Storib.AppleDo# .LSOverrideMa
+# Icon muutoIcon
+
+# Thumbnails
+._*
+
+# e 
+# Mav._*
+
+# Fileo-
+#por.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V1 w.fseventsd
+.Spotlight-ma.Spotlighhu.TemporaryItem i.Trashes
+.Volu-i.Volume# .com.apple.timeml
+# Directories potentially created.im.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporarpl.AppleDdeNetwork TrasttTemporary Items
+.apse.apdisk
+
+### Wat
+### W
+
+## Covers JetBra
+## Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# User-specific stuff
+.idn
+
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usagm_c.idea/**/workspace.xri.idea/**/tasks.xml
+.iro.idea/**/usage.stcs.idea/**/dictionaries
+.idea/pe.idea/**/shelf
+
+# Ged 
+# Generated ide.idea/**/content# 
+# Sensitive or high-chuali.idea/**/dataSources/
+.idea/**il.idea/**/dataSources
+
+.idea/**/dataSources.lo# ### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride/**# General
+.D.i.DS_Stori87# General
+.D
+#.DS_Stor.x.AppleDoea.LSOverride *.D.i.DS_Storib.AppleDoin# Icon muutoIcon
+
+# Thumbnails
+._*
+
+ug
+# Thumbnails
+.arI._*
+
+# e 
+## 
+#rkd# M N
+# Filer p#por.Doid.fseventsd
+.Spotlight-V1 wml.Spotligh/m.Spotlight-ma.Spotlighhud .Volu-i.Volume# .com.apple.timeml
+# Directorie
