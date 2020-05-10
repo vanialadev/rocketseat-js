@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Manipulando a dom</title>
+    </head>
+    <body>
+        <button type="submit" class="button1">Adiciona</button>
+        <input type="text" name="nome">
+        <button onClick="adicionar()">Adicionar</button>
+
+        <script>
+
+            function getRandomColor() {
+                var letters = "0123456789ABCDEF";
+                var color = "#";
+                for (var i = 0; i < 6; i++) {
+                    color += letters[Math.floor(Math.random() * 16)];
+                }
+                return color;
+            }
+
+            var button = document.querySelector('button.button1');
+
+            button.onclick = function () {
+                var box = document.createElement('div');
+                box.style.width = '100px';
+                box.style.height = '100px';
+                box.style.backgroundColor = '#f00';
+
+                box.onmouseover = function () {
+                    box.style.backgroundColor = getRandomColor();
+                };
+
+                document.body.appendChild(box);
+            };
+
+            var nomes = ["Diego", "Gabriel", "Lucas"];
+
+            var ulElement = document.createElement('ul');
+            document.body.appendChild(ulElement);
+
+            for (let i = 0; i < nomes.length; i++) {
+                var li = document.createElement('li');
+                li.appendChild(document.createTextNode(nomes[i]));
+                ulElement.appendChild(li);
+            }
+            ;
+
+            function adicionar() {
+                var li = document.createElement('li');
+                li.innerHTML = input.value;
+                ulElement.appendChild(li);
+                input.value = '';
+            }
+
+            var input = document.querySelector('input');
+
+
+        </script>
+    </body>
+</html>
